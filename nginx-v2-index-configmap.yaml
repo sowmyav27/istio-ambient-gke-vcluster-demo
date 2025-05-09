@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: nginx-v2-index
-data:
-  index.html: |
-    <html><body><h1>Welcome nginx 2</h1></body></html>
